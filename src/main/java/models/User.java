@@ -2,6 +2,7 @@ package models;
 
 /*
     Class describes User model
+    TODO: hashing and salting a password
  */
 public class User {
     private int id;
